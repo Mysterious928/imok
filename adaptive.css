@@ -1,0 +1,36 @@
+@media only screen and (max-width: 1440px){
+
+}
+@media only screen and (max-width: 992px){
+
+    body{
+
+        position: absolute;
+        height: 634px;
+
+    }
+    .block{
+        position: absolute;
+        width: 992px;
+        height: 400%;
+    }
+    
+    
+
+    .sign{
+        position: absolute;
+        top: 2%;
+        right: 15%;
+    }
+
+}
+@media only screen and (max-width: 768px){
+
+    
+    
+}
+@media only screen and (max-width: 480px){
+
+}
+@media only screen and (max-width: 320px){
+}
