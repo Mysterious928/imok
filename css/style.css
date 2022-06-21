@@ -316,6 +316,18 @@ ol {
 	width: 200px;
 }
 
+.wrong {
+	display: flex;
+	margin-top: -30px;
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	color: #FF5353;
+	width: 200px;
+}
+
 .sozdat {
 	margin-top: 35px;
 }
